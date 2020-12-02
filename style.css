@@ -1,0 +1,27 @@
+body{
+   background-image:  linear-gradient(295deg, rgba(121,9,94,1) 0%, rgba(121,9,76,1) 23%, rgba(226,4,165,1) 54%);
+    
+}
+.registration-title{
+ font-size: 20px;
+}
+.form-item{
+    width: 468px;
+    height: 468px;
+    background-color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+label{
+    font-size: 14px;
+}
+.form-group{
+    margin-bottom:0.5rem;
+}
+button{
+    width: 110px;
+    font-size: 14px;
+}
